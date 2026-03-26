@@ -1,4 +1,3 @@
-!leather-menu
 var LeatherworkerShop = LeatherworkerShop || (function () {
     'use strict';
 
